@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    vertical-align: middle;
+    justify-content: space-between;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    margin: 2px;
+    color: white;
+}
+
+.back{
+    cursor: pointer;
+    flex: 1;  
+}
