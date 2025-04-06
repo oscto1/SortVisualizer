@@ -11,4 +11,4 @@ The algorithms included are Merge Sort, Quick Sort, Heap Sort, Bubble Sort.
 You can try the project [here.](https://oscto1.github.io/project/sort_visualizer/index.html)
 
 ## Video
-![Sort Visualizer Video Demo](https://oscto1.github.io/img/sort_visualizer/1.webm)
+![Sort Visualizer Video Demo](https://oscto1.github.io/img/sort_visualizer/1.gif)
